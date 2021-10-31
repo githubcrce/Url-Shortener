@@ -6,7 +6,9 @@ const app = express()
 mongoose.connect('mongodb://localhost/urlShortener',{
     useNewUrlParser: true,
     useUnifiedTopology: true
-})
+}).then(data=>{
+    console.log("DB connected");
+}).catch(err=>console.log(err))
 
 app.set('view engine', 'ejs')
 app.use(express.urlencoded({ extended: false }))
