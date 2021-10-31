@@ -11,7 +11,7 @@
     <a href="https://github.com/githubcrce/Url-Shortener"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/githubcrce/Url-Shortener">View Demo</a>
+    <a href="https://pure-thicket-55317.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/githubcrce/Url-Shortenerissues/new/choose">Report Bug</a>
     ·
